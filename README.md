@@ -5,7 +5,7 @@
 
 In the new moment when technologies continue to make upgrades, I finally decided to learn something about language and coding. I want to learn more and more every day, because for sure technology will change the world, as it already changes many things that we already do.
 
-Right now I am studying web development basics, but always open to other types of language that sweeten my curiosity. :brain:
+Right now I'm studying web development basics, but always open to other languages that sweeten my curiosity. :brain:
 
 ## What I'm focusing on right now :building_construction::books:
 
