@@ -9,4 +9,4 @@ Right now I'm studying web development basics, but always open to other language
 
 ## What I'm focusing on right now :building_construction::books:
 
-Currently improving and learning more....
+Currently improving and learning more.... Foundations course at The Odin Project.
